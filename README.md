@@ -10,7 +10,7 @@ Cliniq is an AI-powered health assistant app built for Indian users. Ask health 
 
 | Home | Ask Cliniq AI | Medicine Scanner | Prescription Vault |
 |------|--------------|-----------------|-------------------|
-| ![Home](screenshots/home.png) | ![AI Chat](screenshots/ai_chat.png) | ![Scanner](screenshots/scanner.png) | ![Vault](screenshots/vault.png) |
+| ![Home](screenshots/cliniq1.png) | ![AI Chat](screenshots/ai_chat.png) | ![Scanner](screenshots/scanner.png) | ![Vault](screenshots/vault.png) |
 
 | Sehat Diary | Health News | Reminders | Profile |
 |-------------|-------------|-----------|---------|
